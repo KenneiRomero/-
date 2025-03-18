@@ -12,3 +12,7 @@ Los ejercicios de fuerza ayudan a desarrollar la musculatura, mejorar la resiste
 1. Comienza con un calentamiento de 5-10 minutos.
 2. Realiza ejercicios de fuerza (pesas, bandas de resistencia, calistenia) en series y repeticiones adecuadas.
 3. Termina con un enfriamiento y estiramientos.
+
+# Consejos
+- Mantén una postura adecuada para evitar lesiones.
+- Aumenta la carga
