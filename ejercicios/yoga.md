@@ -12,3 +12,7 @@ El yoga es una práctica que combina posturas, respiración y meditación para m
 1. Comienza con un calentamiento de 5-10 minutos.
 2. Realiza una serie de posturas (asanas) manteniendo la respiración controlada durante al menos 30 minutos.
 3. Termina con una relajación y meditación.
+
+# Consejos
+- Concéntrate en la respiración.
+- Escoge posturas adecuadas a tu nivel.
