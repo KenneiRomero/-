@@ -12,3 +12,7 @@ El pilates es un método de entrenamiento que mejora la fuerza, flexibilidad y c
 - Comienza con un calentamiento de 5-10 minutos.
 - Realiza ejercicios de pilates enfocados en el control, la respiración y la estabilidad durante al menos 30 minutos.
 - Termina con estiramientos y relajación.
+
+# Consejos
+- Mantén una respiración fluida y controlada.
+- Concéntrate en la precisión de los movimientos.
