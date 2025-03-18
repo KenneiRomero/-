@@ -12,3 +12,7 @@ La natación es un ejercicio completo que trabaja todo el cuerpo y mejora la res
 - Comienza con un calentamiento de 5-10 minutos.
 - Nada a un ritmo constante utilizando diferentes estilos durante al menos 30 minutos.
 - Termina con un enfriamiento y estiramientos fuera del agua.
+
+# Consejos
+- Mantén una respiración controlada.
+- Usa la técnica adecuada para evitar lesiones.
