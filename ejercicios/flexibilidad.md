@@ -12,3 +12,7 @@ Los ejercicios de flexibilidad mejoran la movilidad articular y previenen lesion
 1. Comienza con un calentamiento de 5-10 minutos.
 2. Realiza estiramientos estáticos o dinámicos durante al menos 10-15 minutos.
 3. Termina con respiraciones profundas y relajación.
+
+# Consejos
+- No fuerces demasiado el estiramiento.
+- Mantén una respiración controlada.
