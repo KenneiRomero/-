@@ -7,3 +7,8 @@ El boxeo es un entrenamiento de alta intensidad que combina fuerza, resistencia 
 Mejora la resistencia cardiovascular.
 Aumenta la fuerza y la agilidad.
 Favorece la coordinación y los reflejos.
+
+# Instrucciones
+1. Comienza con un calentamiento de 5-10 minutos.
+2. Realiza ejercicios de golpeo, esquivas y desplazamientos durante al menos 30 minutos.
+3. Termina con un enfriamiento y estiramientos.
