@@ -12,3 +12,7 @@ El entrenamiento funcional mejora la fuerza, el equilibrio y la coordinación me
 1. Comienza con un calentamiento de 5-10 minutos.
 2. Realiza ejercicios como sentadillas, planchas, saltos o desplazamientos durante al menos 30 minutos.
 3. Termina con un enfriamiento y estiramientos.
+
+# Consejos
+- Mantén una postura adecuada.
+- Adapta la intensidad a tu nivel físico.
